@@ -80,6 +80,10 @@
     background: linear-gradient(to right, rgb(0, 157, 157), rgb(255, 0, 255));
 }
 
+.visit-btn a{
+    color: white;
+}
+
 .visit-btn:hover{
     background: linear-gradient(to right, rgb(255, 0, 255),  rgb(0, 157, 157));
     transform: scale(1.03);
